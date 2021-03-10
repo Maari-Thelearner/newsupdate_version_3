@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "743737998897",
+    "firebase_url": "https://imperial-vector-299912-default-rtdb.firebaseio.com",
+    "project_id": "imperial-vector-299912",
+    "storage_bucket": "imperial-vector-299912.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:743737998897:android:ee1f009a0def47be46df10",
+        "android_client_info": {
+          "package_name": "com.example.newsupdatev2.newsupdate_newversion"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "743737998897-s9ebjlmo2vei13rsadcvee5v7g41s3dp.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.newsupdatev2.newsupdate_newversion",
+            "certificate_hash": "da6e15268a3b4c99e598935a24bdd170a6a8d36d"
+          }
+        },
+        {
+          "client_id": "743737998897-2ooiu3dpjholn6tckbva8q6q39otefe4.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDwW1bS2-R0AmWibXu7B6y2ZFf2xtMLKGI"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "743737998897-2ooiu3dpjholn6tckbva8q6q39otefe4.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
